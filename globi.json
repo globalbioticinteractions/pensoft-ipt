@@ -1,0 +1,8 @@
+{ 
+  "format": "rss",
+  "citation": "Pensoft Darwin Core Archives available via Integrated Publication Toolkit",
+  "resources": {
+    "rss": "http://ipt.pensoft.net/rss.do"
+  },
+  "shouldResolveReferences": false
+}
